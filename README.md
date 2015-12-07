@@ -2,6 +2,7 @@
 
 ### Rujukan sepanjang kelas
 http://www.yiiframework.com/doc-2.0/guide-README.html
+http://www.bsourcecode.com/yiiframework2/yii2-0-activeform-input-fields/
 
 ### Download file yang diperlukan
 Yii Framework 2.0.6
