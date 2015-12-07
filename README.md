@@ -1,12 +1,13 @@
 # Yii2_Training
 
 ### Rujukan sepanjang kelas
-http://www.yiiframework.com/doc-2.0/guide-README.html
-http://www.bsourcecode.com/yiiframework2/yii2-0-activeform-input-fields/
+* http://www.yiiframework.com/doc-2.0/guide-README.html
+* http://www.bsourcecode.com/yiiframework2/yii2-0-activeform-input-fields/
 
 ### Download file yang diperlukan
 Yii Framework 2.0.6
 * https://github.com/yiisoft/yii2/releases/download/2.0.6/yii-basic-app-2.0.6.tgz
+* atau
 * https://github.com/zulhilmixrahman/Yii2_Training/blob/master/yii-basic-2.0.6.zip?raw=true
 
 XAMPP
