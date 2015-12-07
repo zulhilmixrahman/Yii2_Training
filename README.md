@@ -1,7 +1,7 @@
 # Yii2_Training
 
 ### Rujukan sepanjang kelas
-http://www.yiiframework.com/doc-2.0/guide-index.html
+http://www.yiiframework.com/doc-2.0/guide-README.html
 
 ### Download file yang diperlukan
 Yii Framework 2.0.6
